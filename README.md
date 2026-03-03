@@ -1,2 +1,0 @@
-# tucsear-assets
-tucsear-assets
